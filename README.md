@@ -1,4 +1,4 @@
-<h align= "left">  Assignment No 01 </h>
+<h align= "left">  <b>Assignment No 01 </b></h>
 <h1 align="center">Hi 👋, I'm Naimul Islam</h1>
 <h3 align="center">I am learning to HTML and Python</h3>
 
