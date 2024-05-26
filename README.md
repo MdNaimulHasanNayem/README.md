@@ -14,13 +14,14 @@
 
 - ⚡ Fun fact **I think I Facetious**
 - 
-- <h3 align="left"> Education Qualification </h3>
+- <h2 align="left"> Education Qualification </h2>
  BSc in CSE
  
-<h3 align="left"> My skill:</h3>
+<h2 align="left"> My skill:</h2>
  <b> </b># Phython</br> # html</br> # MS Office</br> # Illustrator</br>
  
-  
+  <h2 align="left"> Project</h2>
+   
 <h3 align="left">Connect with me: nayemnaimul@gmail.com</h3>
 
 <p align="left">
