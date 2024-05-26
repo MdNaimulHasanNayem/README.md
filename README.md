@@ -13,8 +13,8 @@
 - 📫 How to reach me **nayemnaimul@gamil.com**
 
 - ⚡ Fun fact **I think I Facetious**
-- 
-- <h2 align="left"> Education Qualification </h2>
+
+<h2 align="left"> Education Qualification </h2>
  BSc in CSE
  
 <h2 align="left"> My skill:</h2>
