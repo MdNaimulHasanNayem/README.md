@@ -15,8 +15,8 @@
 - ⚡ Fun fact **I think I Facetious**
 - 
 <h3 align="left">Connect with me: nayemnaimul@gmail.com</h3>
-<h3 align="left"> My skill:
- <b></br># Phython</br> # html</b></h3>
+<h3 align="left"> My skill:</h3>
+ <b></br># Phython</br> # html</b>
  
   
 
