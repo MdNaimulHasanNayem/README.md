@@ -16,7 +16,7 @@
 - 
 <h3 align="left">Connect with me: nayemnaimul@gmail.com</h3>
 <h3 align="left"> My skill:</h3>
- <b></br># Phython</br> # html</b>
+ # Phython</br> # html</b> # MS Office</b> # Illustrator
  
   
 
