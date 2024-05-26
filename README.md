@@ -1,4 +1,7 @@
 <h1 align= "left">  <b>Assignment No 01 </b></h1>
+<h2 align= " left"> <b> Assignment Title </b>
+ Creating a Portfolio with GitHub README.md
+ 
 <h1 align="center">Hi 👋, I'm Naimul Islam</h1>
 <h3 align="center">I am learning to HTML and Python</h3>
 
@@ -22,7 +25,7 @@
  
   <h2 align="left"> Project</h2>
    
-<h3 align="left">Connect with me: nayemnaimul@gmail.com</h3>
+<h2 align="left">Connect with me: nayemnaimul@gmail.com</h2>
 
 <p align="left">
 </p>
